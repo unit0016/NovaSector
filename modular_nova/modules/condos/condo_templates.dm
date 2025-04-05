@@ -22,12 +22,6 @@ Due to some fuckery with how these templates work; the bottom left turf of your 
 	landing_zone_x_offset = 2
 	landing_zone_y_offset = 8
 
-/datum/map_template/condo/blueshift_dorms_four
-	name = "Condo - \"Blueshift\" Style Dormitory"
-	mappath = "modular_nova/modules/condos/_maps/blueshift_dormsfour.dmm"
-	landing_zone_x_offset = 2
-	landing_zone_y_offset = 2
-
 /// Wowee! It's like I'm a real terrorist!
 /// This particular one was cooler with wallening window frames and short stairs.. alas. twas not to be
 /datum/map_template/condo/dstwo_condo
@@ -42,6 +36,18 @@ Due to some fuckery with how these templates work; the bottom left turf of your 
 	landing_zone_x_offset = 7
 	landing_zone_y_offset = 2
 
+/datum/map_template/condo/blueshift_dorms_four
+	name = "Condo - \"Blueshift\" Style Dormitory"
+	mappath = "modular_nova/modules/condos/_maps/blueshift_dormsfour.dmm"
+	landing_zone_x_offset = 2
+	landing_zone_y_offset = 2
+
+/datum/map_template/condo/cabin_woods
+	name = "Condo - Cabin In The Woods"
+	mappath = "modular_nova/modules/condos/_maps/cabin_woods.dmm"
+	landing_zone_x_offset = 2
+	landing_zone_y_offset = 1
+
 /datum/map_template/condo/gm_condo
 	name = "Condo - Suite"
 	mappath = "modular_nova/modules/condos/_maps/gm_condo.dmm"
@@ -54,6 +60,12 @@ Due to some fuckery with how these templates work; the bottom left turf of your 
 	mappath = "modular_nova/modules/condos/_maps/hilbertshotel.dmm"
 	landing_zone_x_offset = 2
 	landing_zone_y_offset = 12
+
+/datum/map_template/condo/interlink_shuttle
+	name = "Condo - Interlink Shuttle"
+	mappath = "modular_nova/modules/condos/_maps/arrival_shuttle.dmm"
+	landing_zone_x_offset = 2
+	landing_zone_y_offset = 1
 
 /datum/map_template/condo/lodge_pool
 	name = "Condo - Lodge's Pool"
@@ -98,6 +110,12 @@ Due to some fuckery with how these templates work; the bottom left turf of your 
 	landing_zone_x_offset = 7
 	landing_zone_y_offset = 1
 
+/datum/map_template/condo/public_library
+	name = "Condo - Public Library"
+	mappath = "modular_nova/modules/condos/_maps/public_library.dmm"
+	landing_zone_x_offset = 7
+	landing_zone_y_offset = 1
+
 /datum/map_template/condo/serenity_cabin_four
 	name = "Condo - \"Serenity\" Style Cabin"
 	mappath = "modular_nova/modules/condos/_maps/serenity_cabinfour.dmm"
@@ -110,6 +128,13 @@ Due to some fuckery with how these templates work; the bottom left turf of your 
 	landing_zone_x_offset = 6
 	landing_zone_y_offset = 3
 
+
+/datum/map_template/condo/ship_bridge
+	name = "Condo - Spaceship Bridge"
+	mappath = "modular_nova/modules/condos/_maps/ship_bridge.dmm"
+	landing_zone_x_offset = 2
+	landing_zone_y_offset = 8
+
 /datum/map_template/condo/station_arrivals
 	name = "Condo - Arrivals Checkpoint"
 	mappath = "modular_nova/modules/condos/_maps/station_arrivals.dmm"
@@ -121,21 +146,4 @@ Due to some fuckery with how these templates work; the bottom left turf of your 
 	mappath = "modular_nova/modules/condos/_maps/xeno_resin.dmm"
 	landing_zone_x_offset = 2
 	landing_zone_y_offset = 1
-	
-/datum/map_template/condo/cabin_woods
-	name = "Condo - Cabin In The Woods"
-	mappath = "modular_nova/modules/condos/_maps/cabin_woods.dmm"
-	landing_zone_x_offset = 2
-	landing_zone_y_offset = 1
-	
-/datum/map_template/condo/ship_bridge
-	name = "Condo - Spaceship Bridge"
-	mappath = "modular_nova/modules/condos/_maps/ship_bridge.dmm"
-	landing_zone_x_offset = 2
-	landing_zone_y_offset = 8
-	
-/datum/map_template/condo/public_library
-	name = "Condo - Public Library"
-	mappath = "modular_nova/modules/condos/_maps/public_library.dmm"
-	landing_zone_x_offset = 7
-	landing_zone_y_offset = 1
+
