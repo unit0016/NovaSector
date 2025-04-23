@@ -51,6 +51,9 @@
 	name = "Turret Factory"
 	ambientsounds = list('sound/ambience/maintenance/ambimaint.ogg','sound/ambience/maintenance/ambimaint1.ogg','sound/ambience/maintenance/ambimaint3.ogg', 'sound/ambience/maintenance/ambimaint5.ogg', 'sound/ambience/maintenance/ambimaint6.ogg')
 
+/area/ruin/space/has_grav/collapsing_rift_arcade
+	name = "IS-0083"
+
 //Port Tarkon
 
 /area/ruin/space/has_grav/outdoors

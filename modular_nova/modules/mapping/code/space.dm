@@ -36,11 +36,17 @@
 	name = "Space-Ruin Abandoned Outpost"
 	description = "Whilst nicely furnished and filled with all sorts of posters, whoever once lived here seems long gone."
 
-/datum/map_template/ruin/space/nova/prisonshuttle
-	id = "prisonshuttle"
-	suffix = "prisonshuttle.dmm"
-	name = "Space-Ruin Partisan Shuttle"
-	description = "You can faintly hear hardbass."
+/datum/map_template/ruin/space/nova/collapsing_rift_arcade
+	id = "collapsing_rift_arcade"
+	suffix = "collapsing_rift_arcade.dmm"
+	name = "Space-Ruin Collapsing Rift Arcade"
+	description = "A former lunchtime haunt, now something far stranger."
+
+/datum/map_template/ruin/space/nova/toystore
+	id = "toystore"
+	suffix = "toystore.dmm"
+	name = "Space-Ruin Toy Store"
+	description = "A once state-of-the-art store, now left derelict after the company behind it went bankrupt. Maybe they shouldn't have picked such a remote location."
 
 /datum/map_template/ruin/space/nova/toystore
 	id = "toystore"

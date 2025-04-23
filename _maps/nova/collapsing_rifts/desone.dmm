@@ -1,0 +1,1355 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"aU" = (
+/obj/structure/lattice,
+/obj/structure/table,
+/obj/item/clothing/shoes/bhop{
+	pixel_y = 3
+	},
+/turf/open/chasm/collapsing_rift,
+/area/misc/collapsing_rift)
+"bK" = (
+/obj/structure/lattice,
+/turf/open/chasm/collapsing_rift,
+/area/misc/collapsing_rift)
+"cb" = (
+/obj/effect/turf_decal/trimline/red/filled/line,
+/obj/machinery/light/directional/south,
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
+"ds" = (
+/turf/open/floor/iron,
+/area/misc/collapsing_rift)
+"dO" = (
+/turf/open/floor/iron/freezer,
+/area/misc/collapsing_rift)
+"el" = (
+/obj/effect/turf_decal/trimline/red/filled/line{
+	dir = 5
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
+"gv" = (
+/obj/structure/lattice,
+/obj/item/wrench,
+/turf/open/chasm/collapsing_rift,
+/area/misc/collapsing_rift)
+"gX" = (
+/obj/effect/turf_decal/trimline/red/filled/warning{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
+"hj" = (
+/obj/item/wallframe/extinguisher_cabinet,
+/turf/open/floor/iron,
+/area/misc/collapsing_rift)
+"hk" = (
+/obj/effect/turf_decal/trimline/red/filled/line{
+	dir = 9
+	},
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
+"ht" = (
+/obj/effect/turf_decal/caution/stand_clear,
+/obj/machinery/door/firedoor,
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
+"hQ" = (
+/obj/effect/turf_decal/trimline/red/filled/line{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
+"hU" = (
+/obj/machinery/seed_extractor,
+/turf/open/chasm/collapsing_rift,
+/area/misc/collapsing_rift)
+"iB" = (
+/turf/open/indestructible/binary,
+/area/misc/collapsing_rift)
+"jq" = (
+/obj/item/stack/tile/iron/dark,
+/turf/open/chasm/collapsing_rift,
+/area/misc/collapsing_rift)
+"jD" = (
+/obj/structure/lattice,
+/obj/machinery/light/directional/west,
+/turf/open/chasm/collapsing_rift,
+/area/misc/collapsing_rift)
+"ki" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/structure/reagent_dispensers/water_cooler,
+/turf/open/floor/wood,
+/area/misc/collapsing_rift)
+"km" = (
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
+"om" = (
+/obj/effect/turf_decal/trimline/red/filled/line{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
+"qo" = (
+/obj/effect/turf_decal/trimline/red/filled/line{
+	dir = 1
+	},
+/obj/machinery/light/directional/north,
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
+"qq" = (
+/turf/closed/indestructible/syndicate/nodiagonal,
+/area/misc/collapsing_rift)
+"qE" = (
+/obj/item/stack/tile/iron/freezer,
+/turf/open/chasm/collapsing_rift,
+/area/misc/collapsing_rift)
+"qU" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/misc/collapsing_rift)
+"rf" = (
+/obj/structure/table,
+/obj/effect/turf_decal/trimline/red/filled/line{
+	dir = 10
+	},
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
+"rC" = (
+/obj/structure/railing{
+	dir = 8
+	},
+/turf/open/indestructible/cobble/corner{
+	dir = 8
+	},
+/area/misc/collapsing_rift)
+"tM" = (
+/obj/machinery/firealarm/directional/north,
+/turf/open/floor/plating,
+/area/misc/collapsing_rift)
+"ug" = (
+/turf/open/indestructible/cobble/side{
+	dir = 4
+	},
+/area/misc/collapsing_rift)
+"uh" = (
+/obj/effect/turf_decal/caution/stand_clear,
+/obj/machinery/door/firedoor/closed,
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
+"uu" = (
+/obj/machinery/door/airlock/security,
+/obj/effect/turf_decal/delivery/red,
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
+"uA" = (
+/obj/effect/turf_decal/tile/brown,
+/obj/effect/turf_decal/tile/yellow{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/misc/collapsing_rift)
+"uG" = (
+/obj/machinery/light/directional/north,
+/turf/open/floor/iron,
+/area/misc/collapsing_rift)
+"uK" = (
+/turf/closed/indestructible/binary,
+/area/misc/collapsing_rift)
+"vQ" = (
+/obj/machinery/suit_storage_unit/industrial,
+/turf/open/chasm/collapsing_rift,
+/area/misc/collapsing_rift)
+"wY" = (
+/obj/effect/turf_decal/trimline/red/filled/line{
+	dir = 10
+	},
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
+"xc" = (
+/obj/effect/turf_decal/tile/green/anticorner/contrasted{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/misc/collapsing_rift)
+"xj" = (
+/obj/effect/turf_decal/delivery/red,
+/obj/machinery/door/airlock/security,
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
+"xB" = (
+/obj/item/crowbar,
+/turf/open/floor/plating,
+/area/misc/collapsing_rift)
+"yu" = (
+/obj/effect/turf_decal/trimline/red/filled/warning{
+	dir = 5
+	},
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
+"yQ" = (
+/obj/structure/lattice,
+/obj/machinery/firealarm/directional/west,
+/turf/open/chasm/collapsing_rift,
+/area/misc/collapsing_rift)
+"zk" = (
+/obj/structure/window/reinforced/plasma/plastitanium,
+/turf/open/floor/plating,
+/area/misc/collapsing_rift)
+"zo" = (
+/obj/effect/turf_decal/trimline/red/filled/warning{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
+"Aa" = (
+/obj/effect/turf_decal/delivery/red,
+/obj/machinery/door/airlock/hos{
+	name = "Chief Master At Arms"
+	},
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
+"Bd" = (
+/turf/open/floor/plating,
+/area/misc/collapsing_rift)
+"DU" = (
+/turf/open/indestructible/cobble/corner,
+/area/misc/collapsing_rift)
+"Fo" = (
+/obj/effect/turf_decal/tile/green{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/misc/collapsing_rift)
+"Fs" = (
+/obj/structure/table,
+/turf/open/chasm/collapsing_rift,
+/area/misc/collapsing_rift)
+"FL" = (
+/obj/machinery/shower/directional/south,
+/turf/open/floor/iron/freezer,
+/area/misc/collapsing_rift)
+"Ge" = (
+/obj/item/stack/tile/iron/dark,
+/turf/open/floor/plating,
+/area/misc/collapsing_rift)
+"Hh" = (
+/obj/structure/frame/machine/secured,
+/turf/open/floor/plating,
+/area/misc/collapsing_rift)
+"Hv" = (
+/obj/structure/railing{
+	dir = 8
+	},
+/turf/open/indestructible/cobble/side{
+	dir = 8
+	},
+/area/misc/collapsing_rift)
+"HL" = (
+/obj/item/stack/tile/iron/base,
+/turf/open/floor/plating,
+/area/misc/collapsing_rift)
+"HU" = (
+/obj/effect/turf_decal/tile/green/half/contrasted,
+/turf/open/floor/iron,
+/area/misc/collapsing_rift)
+"KJ" = (
+/obj/machinery/light/broken/directional/south,
+/obj/structure/lattice,
+/turf/open/chasm/collapsing_rift,
+/area/misc/collapsing_rift)
+"KX" = (
+/obj/structure/table,
+/obj/item/toy/plush/nova/sechound,
+/turf/open/chasm/collapsing_rift,
+/area/misc/collapsing_rift)
+"Nk" = (
+/obj/effect/turf_decal/trimline/red/filled/line{
+	dir = 6
+	},
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
+"NL" = (
+/obj/effect/turf_decal/trimline/red/filled/line{
+	dir = 5
+	},
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
+"OG" = (
+/obj/effect/turf_decal/trimline/red/filled/line{
+	dir = 1
+	},
+/obj/machinery/light/broken/directional/north,
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
+"OW" = (
+/obj/effect/turf_decal/trimline/red/filled/warning{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
+"Pe" = (
+/turf/open/chasm/collapsing_rift,
+/area/misc/collapsing_rift)
+"Py" = (
+/turf/open/indestructible/cobble/corner{
+	dir = 4
+	},
+/area/misc/collapsing_rift)
+"PN" = (
+/obj/structure/railing{
+	dir = 8
+	},
+/turf/open/indestructible/cobble/corner{
+	dir = 1
+	},
+/area/misc/collapsing_rift)
+"Qq" = (
+/obj/effect/turf_decal/trimline/red/filled/line,
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
+"QZ" = (
+/obj/effect/turf_decal/tile/green/anticorner/contrasted,
+/turf/open/floor/iron,
+/area/misc/collapsing_rift)
+"RF" = (
+/obj/machinery/light/broken/directional/north,
+/turf/open/chasm/collapsing_rift,
+/area/misc/collapsing_rift)
+"RR" = (
+/obj/effect/turf_decal/trimline/red/filled/line{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
+"Ss" = (
+/turf/open/indestructible/cobble/side,
+/area/misc/collapsing_rift)
+"St" = (
+/obj/effect/turf_decal/trimline/red/filled/warning,
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
+"Sw" = (
+/obj/structure/table,
+/obj/effect/turf_decal/trimline/red/filled/line,
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
+"SU" = (
+/obj/structure/sign/poster/contraband/lusty_xenomorph/directional/north,
+/turf/open/floor/iron,
+/area/misc/collapsing_rift)
+"TL" = (
+/obj/effect/turf_decal/tile/green/half/contrasted{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/misc/collapsing_rift)
+"TY" = (
+/obj/effect/turf_decal/tile/green/half/contrasted{
+	dir = 1
+	},
+/obj/machinery/firealarm/directional/north,
+/turf/open/floor/iron,
+/area/misc/collapsing_rift)
+"Ux" = (
+/turf/open/indestructible/cobble/side{
+	dir = 1
+	},
+/area/misc/collapsing_rift)
+"UF" = (
+/turf/open/floor/carpet/red,
+/area/misc/collapsing_rift)
+"Wy" = (
+/obj/machinery/light/directional/east,
+/turf/open/floor/iron,
+/area/misc/collapsing_rift)
+
+(1,1,1) = {"
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+"}
+(2,1,1) = {"
+uK
+uK
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+uK
+uK
+"}
+(3,1,1) = {"
+uK
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+UF
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+uK
+"}
+(4,1,1) = {"
+uK
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+UF
+UF
+Pe
+Pe
+dO
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+uK
+"}
+(5,1,1) = {"
+uK
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+UF
+qq
+qq
+FL
+qE
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+uK
+"}
+(6,1,1) = {"
+uK
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+PN
+Hv
+rC
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+uK
+"}
+(7,1,1) = {"
+uK
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Ux
+iB
+Ss
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+qq
+vQ
+Pe
+Pe
+Fs
+KX
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+uK
+"}
+(8,1,1) = {"
+uK
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+DU
+ug
+Py
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+qq
+RF
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+uK
+"}
+(9,1,1) = {"
+uK
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+bK
+Pe
+bK
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+uK
+"}
+(10,1,1) = {"
+uK
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+bK
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+bK
+bK
+km
+Pe
+bK
+bK
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+uK
+"}
+(11,1,1) = {"
+uK
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Bd
+bK
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+hQ
+gX
+hQ
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+uK
+"}
+(12,1,1) = {"
+uK
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Bd
+Pe
+Bd
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+qq
+qq
+qq
+Aa
+qq
+qq
+qq
+qq
+Pe
+Pe
+Pe
+Pe
+uK
+"}
+(13,1,1) = {"
+uK
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Bd
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+qq
+hk
+RR
+zo
+rf
+qq
+ki
+qq
+qq
+bK
+bK
+Pe
+uK
+"}
+(14,1,1) = {"
+uK
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+bK
+Bd
+HU
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+qq
+OG
+km
+km
+Sw
+qq
+hk
+Bd
+RR
+xB
+Pe
+Pe
+uK
+"}
+(15,1,1) = {"
+uK
+Pe
+Pe
+Pe
+Pe
+Pe
+qq
+TY
+ds
+HU
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Bd
+Pe
+km
+St
+uu
+OW
+Ge
+qU
+Pe
+Pe
+Pe
+uK
+"}
+(16,1,1) = {"
+uK
+Pe
+Pe
+Pe
+Pe
+Pe
+qq
+xc
+TL
+QZ
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+jq
+bK
+bK
+Ge
+Bd
+Qq
+qq
+el
+Bd
+Pe
+Pe
+Pe
+Pe
+uK
+"}
+(17,1,1) = {"
+uK
+Pe
+Pe
+Pe
+Pe
+Pe
+qq
+ht
+ht
+ht
+qq
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+qq
+qo
+Bd
+km
+Qq
+qq
+qq
+qq
+bK
+bK
+Pe
+Pe
+uK
+"}
+(18,1,1) = {"
+uK
+Pe
+Pe
+Pe
+Pe
+Pe
+qq
+SU
+ds
+ds
+qq
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+qq
+NL
+hQ
+gX
+Nk
+qq
+Pe
+Pe
+bK
+Pe
+Pe
+Pe
+uK
+"}
+(19,1,1) = {"
+uK
+Pe
+Pe
+Pe
+Pe
+Pe
+qq
+uG
+ds
+ds
+qq
+Bd
+Bd
+Pe
+Pe
+Pe
+Pe
+Pe
+hU
+qq
+qq
+zk
+xj
+zk
+qq
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+uK
+"}
+(20,1,1) = {"
+uK
+Pe
+Pe
+Pe
+Pe
+Pe
+qq
+ds
+ds
+ds
+qq
+bK
+qq
+Pe
+Pe
+Pe
+Pe
+qq
+Pe
+qq
+hk
+RR
+zo
+wY
+qq
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+uK
+"}
+(21,1,1) = {"
+uK
+Pe
+Pe
+ds
+HL
+bK
+ht
+ds
+ds
+ds
+uh
+hj
+yQ
+HL
+ds
+Fo
+Pe
+jD
+bK
+Bd
+OW
+km
+km
+cb
+qq
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+uK
+"}
+(22,1,1) = {"
+uK
+Pe
+bK
+bK
+Bd
+ds
+ht
+ds
+ds
+ds
+uh
+ds
+ds
+ds
+Hh
+Pe
+Pe
+Pe
+Bd
+zk
+om
+km
+km
+Qq
+qq
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+uK
+"}
+(23,1,1) = {"
+uK
+Pe
+Pe
+bK
+bK
+Bd
+ht
+ds
+ds
+ds
+uh
+ds
+Wy
+uA
+uA
+Pe
+Pe
+Pe
+Ge
+Bd
+yu
+hQ
+hQ
+Nk
+qq
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+uK
+"}
+(24,1,1) = {"
+uK
+Pe
+Pe
+Pe
+Pe
+Pe
+qq
+ds
+Bd
+bK
+qq
+qq
+qq
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+qq
+qq
+Bd
+Bd
+qq
+qq
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+uK
+"}
+(25,1,1) = {"
+uK
+Pe
+Pe
+Pe
+Pe
+Pe
+qq
+tM
+HL
+KJ
+qq
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Bd
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+uK
+"}
+(26,1,1) = {"
+uK
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+bK
+bK
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+gv
+bK
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+uK
+"}
+(27,1,1) = {"
+uK
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+bK
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+aU
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+uK
+"}
+(28,1,1) = {"
+uK
+uK
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+Pe
+uK
+uK
+"}
+(29,1,1) = {"
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+uK
+"}
