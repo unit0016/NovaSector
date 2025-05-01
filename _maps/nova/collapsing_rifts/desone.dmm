@@ -16,16 +16,27 @@
 /obj/machinery/light/directional/south,
 /turf/open/floor/iron/dark,
 /area/misc/collapsing_rift)
+"cp" = (
+/turf/open/floor/plating/rust,
+/area/misc/collapsing_rift)
 "ds" = (
 /turf/open/floor/iron,
 /area/misc/collapsing_rift)
 "dO" = (
+/obj/item/holocigarette/cigar,
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/freezer,
 /area/misc/collapsing_rift)
 "el" = (
 /obj/effect/turf_decal/trimline/red/filled/line{
 	dir = 5
 	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
+"fB" = (
+/obj/effect/turf_decal/caution/stand_clear,
+/obj/machinery/door/firedoor,
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark,
 /area/misc/collapsing_rift)
@@ -42,6 +53,7 @@
 /area/misc/collapsing_rift)
 "hj" = (
 /obj/item/wallframe/extinguisher_cabinet,
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron,
 /area/misc/collapsing_rift)
 "hk" = (
@@ -55,6 +67,10 @@
 /obj/machinery/door/firedoor,
 /turf/open/floor/iron/dark,
 /area/misc/collapsing_rift)
+"hC" = (
+/obj/structure/chair/office,
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
 "hQ" = (
 /obj/effect/turf_decal/trimline/red/filled/line{
 	dir = 4
@@ -63,14 +79,23 @@
 /area/misc/collapsing_rift)
 "hU" = (
 /obj/machinery/seed_extractor,
-/turf/open/chasm/collapsing_rift,
+/turf/open/floor/plating,
+/area/misc/collapsing_rift)
+"iv" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating,
 /area/misc/collapsing_rift)
 "iB" = (
+/obj/structure/collapsing_rift_hatch,
 /turf/open/indestructible/binary,
 /area/misc/collapsing_rift)
 "jq" = (
-/obj/item/stack/tile/iron/dark,
-/turf/open/chasm/collapsing_rift,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/misc/collapsing_rift)
+"jv" = (
+/obj/item/mod/control/pre_equipped/empty/syndicate,
+/turf/open/floor/carpet/red,
 /area/misc/collapsing_rift)
 "jD" = (
 /obj/structure/lattice,
@@ -87,10 +112,16 @@
 "km" = (
 /turf/open/floor/iron/dark,
 /area/misc/collapsing_rift)
+"mE" = (
+/obj/effect/turf_decal/tile/green/half/contrasted,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/misc/collapsing_rift)
 "om" = (
 /obj/effect/turf_decal/trimline/red/filled/line{
 	dir = 1
 	},
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark,
 /area/misc/collapsing_rift)
 "qo" = (
@@ -105,17 +136,19 @@
 /area/misc/collapsing_rift)
 "qE" = (
 /obj/item/stack/tile/iron/freezer,
-/turf/open/chasm/collapsing_rift,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
 /area/misc/collapsing_rift)
 "qU" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/plating,
 /area/misc/collapsing_rift)
 "rf" = (
-/obj/structure/table,
 /obj/effect/turf_decal/trimline/red/filled/line{
 	dir = 10
 	},
+/obj/item/restraints/handcuffs/cable/zipties,
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark,
 /area/misc/collapsing_rift)
 "rC" = (
@@ -126,9 +159,22 @@
 	dir = 8
 	},
 /area/misc/collapsing_rift)
+"tb" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/item/stack/rods,
+/turf/open/floor/plating,
+/area/misc/collapsing_rift)
 "tM" = (
 /obj/machinery/firealarm/directional/north,
-/turf/open/floor/plating,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating/rust,
+/area/misc/collapsing_rift)
+"tZ" = (
+/obj/effect/turf_decal/trimline/red/filled/line{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark,
 /area/misc/collapsing_rift)
 "ug" = (
 /turf/open/indestructible/cobble/side{
@@ -150,10 +196,12 @@
 /obj/effect/turf_decal/tile/yellow{
 	dir = 4
 	},
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron,
 /area/misc/collapsing_rift)
 "uG" = (
 /obj/machinery/light/directional/north,
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron,
 /area/misc/collapsing_rift)
 "uK" = (
@@ -161,12 +209,17 @@
 /area/misc/collapsing_rift)
 "vQ" = (
 /obj/machinery/suit_storage_unit/industrial,
-/turf/open/chasm/collapsing_rift,
+/turf/open/floor/plating,
+/area/misc/collapsing_rift)
+"vX" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating/rust,
 /area/misc/collapsing_rift)
 "wY" = (
 /obj/effect/turf_decal/trimline/red/filled/line{
 	dir = 10
 	},
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark,
 /area/misc/collapsing_rift)
 "xc" = (
@@ -180,6 +233,13 @@
 /obj/machinery/door/airlock/security,
 /turf/open/floor/iron/dark,
 /area/misc/collapsing_rift)
+"xp" = (
+/obj/effect/turf_decal/trimline/red/filled/line{
+	dir = 9
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
 "xB" = (
 /obj/item/crowbar,
 /turf/open/floor/plating,
@@ -188,6 +248,7 @@
 /obj/effect/turf_decal/trimline/red/filled/warning{
 	dir = 5
 	},
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark,
 /area/misc/collapsing_rift)
 "yQ" = (
@@ -212,8 +273,16 @@
 	},
 /turf/open/floor/iron/dark,
 /area/misc/collapsing_rift)
+"Au" = (
+/obj/item/card/id/advanced/chameleon/crummy,
+/turf/open/floor/plating,
+/area/misc/collapsing_rift)
 "Bd" = (
 /turf/open/floor/plating,
+/area/misc/collapsing_rift)
+"Bm" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark,
 /area/misc/collapsing_rift)
 "DU" = (
 /turf/open/indestructible/cobble/corner,
@@ -222,11 +291,24 @@
 /obj/effect/turf_decal/tile/green{
 	dir = 8
 	},
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron,
+/area/misc/collapsing_rift)
+"Fq" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating/rust,
 /area/misc/collapsing_rift)
 "Fs" = (
 /obj/structure/table,
-/turf/open/chasm/collapsing_rift,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/misc/collapsing_rift)
+"FI" = (
+/obj/effect/turf_decal/trimline/red/filled/line{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark,
 /area/misc/collapsing_rift)
 "FL" = (
 /obj/machinery/shower/directional/south,
@@ -236,9 +318,21 @@
 /obj/item/stack/tile/iron/dark,
 /turf/open/floor/plating,
 /area/misc/collapsing_rift)
+"Gw" = (
+/obj/structure/lattice,
+/obj/item/stack/tile/iron/dark,
+/turf/open/chasm/collapsing_rift,
+/area/misc/collapsing_rift)
 "Hh" = (
 /obj/structure/frame/machine/secured,
 /turf/open/floor/plating,
+/area/misc/collapsing_rift)
+"Hl" = (
+/obj/effect/turf_decal/trimline/red/filled/line{
+	dir = 6
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron/dark,
 /area/misc/collapsing_rift)
 "Hv" = (
 /obj/structure/railing{
@@ -256,6 +350,13 @@
 /obj/effect/turf_decal/tile/green/half/contrasted,
 /turf/open/floor/iron,
 /area/misc/collapsing_rift)
+"Iy" = (
+/obj/effect/turf_decal/trimline/red/filled/warning{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
 "KJ" = (
 /obj/machinery/light/broken/directional/south,
 /obj/structure/lattice,
@@ -264,18 +365,32 @@
 "KX" = (
 /obj/structure/table,
 /obj/item/toy/plush/nova/sechound,
-/turf/open/chasm/collapsing_rift,
+/turf/open/floor/plating,
+/area/misc/collapsing_rift)
+"LI" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron/dark,
 /area/misc/collapsing_rift)
 "Nk" = (
 /obj/effect/turf_decal/trimline/red/filled/line{
 	dir = 6
 	},
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark,
 /area/misc/collapsing_rift)
 "NL" = (
 /obj/effect/turf_decal/trimline/red/filled/line{
 	dir = 5
 	},
+/obj/item/restraints/handcuffs,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
+"Oh" = (
+/obj/effect/spawner/structure/flipped_table{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark,
 /area/misc/collapsing_rift)
 "OG" = (
@@ -313,6 +428,7 @@
 /area/misc/collapsing_rift)
 "QZ" = (
 /obj/effect/turf_decal/tile/green/anticorner/contrasted,
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron,
 /area/misc/collapsing_rift)
 "RF" = (
@@ -325,21 +441,33 @@
 	},
 /turf/open/floor/iron/dark,
 /area/misc/collapsing_rift)
+"RW" = (
+/obj/structure/door_assembly/door_assembly_vault,
+/turf/open/floor/plating,
+/area/misc/collapsing_rift)
 "Ss" = (
 /turf/open/indestructible/cobble/side,
 /area/misc/collapsing_rift)
 "St" = (
 /obj/effect/turf_decal/trimline/red/filled/warning,
+/obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron/dark,
 /area/misc/collapsing_rift)
 "Sw" = (
-/obj/structure/table,
-/obj/effect/turf_decal/trimline/red/filled/line,
+/obj/effect/turf_decal/trimline/red/filled/warning{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark,
 /area/misc/collapsing_rift)
 "SU" = (
 /obj/structure/sign/poster/contraband/lusty_xenomorph/directional/north,
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron,
+/area/misc/collapsing_rift)
+"Tw" = (
+/obj/item/assembly/flash,
+/turf/open/floor/iron/dark,
 /area/misc/collapsing_rift)
 "TL" = (
 /obj/effect/turf_decal/tile/green/half/contrasted{
@@ -347,11 +475,18 @@
 	},
 /turf/open/floor/iron,
 /area/misc/collapsing_rift)
+"TW" = (
+/obj/effect/turf_decal/trimline/red/filled/line,
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/sign/poster/contraband/gorlex_recruitment/directional/south,
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
 "TY" = (
 /obj/effect/turf_decal/tile/green/half/contrasted{
 	dir = 1
 	},
 /obj/machinery/firealarm/directional/north,
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron,
 /area/misc/collapsing_rift)
 "Ux" = (
@@ -362,9 +497,38 @@
 "UF" = (
 /turf/open/floor/carpet/red,
 /area/misc/collapsing_rift)
+"Vc" = (
+/obj/item/stack/tile/iron/base,
+/turf/open/floor/plating/rust,
+/area/misc/collapsing_rift)
+"VG" = (
+/obj/effect/turf_decal/trimline/red/filled/line{
+	dir = 9
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
+"Wm" = (
+/obj/effect/turf_decal/trimline/red/filled/line,
+/obj/effect/spawner/structure/flipped_table{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark,
+/area/misc/collapsing_rift)
 "Wy" = (
 /obj/machinery/light/directional/east,
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron,
+/area/misc/collapsing_rift)
+"WD" = (
+/obj/structure/lattice,
+/obj/item/wirecutters,
+/turf/open/chasm/collapsing_rift,
+/area/misc/collapsing_rift)
+"ZK" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/carpet/red,
 /area/misc/collapsing_rift)
 
 (1,1,1) = {"
@@ -457,7 +621,7 @@ Pe
 Pe
 Pe
 Pe
-UF
+jv
 Pe
 Pe
 Pe
@@ -491,7 +655,7 @@ Pe
 Pe
 Pe
 UF
-UF
+ZK
 Pe
 Pe
 dO
@@ -524,7 +688,7 @@ Pe
 Pe
 Pe
 Pe
-UF
+ZK
 qq
 qq
 FL
@@ -695,7 +859,7 @@ Pe
 Pe
 bK
 bK
-km
+hC
 Pe
 bK
 bK
@@ -717,7 +881,7 @@ Pe
 Pe
 Pe
 Pe
-Bd
+cp
 bK
 Pe
 Pe
@@ -729,9 +893,9 @@ Pe
 Pe
 Pe
 Pe
-hQ
+FI
 gX
-hQ
+FI
 Pe
 Pe
 Pe
@@ -749,7 +913,7 @@ Pe
 Pe
 Pe
 Pe
-Bd
+cp
 Pe
 Bd
 Pe
@@ -783,7 +947,7 @@ Pe
 Pe
 Pe
 Pe
-Bd
+tb
 Pe
 Pe
 Pe
@@ -796,8 +960,8 @@ Pe
 Pe
 Pe
 qq
-hk
-RR
+VG
+tZ
 zo
 rf
 qq
@@ -831,12 +995,12 @@ Pe
 Pe
 qq
 OG
-km
-km
-Sw
+Tw
+LI
+Qq
 qq
 hk
-Bd
+iv
 RR
 xB
 Pe
@@ -853,7 +1017,7 @@ Pe
 qq
 TY
 ds
-HU
+mE
 Pe
 Pe
 Pe
@@ -866,7 +1030,7 @@ Pe
 Pe
 Bd
 Pe
-km
+Bm
 St
 uu
 OW
@@ -896,11 +1060,11 @@ Pe
 Pe
 Pe
 Pe
-jq
-bK
+Pe
+Gw
 bK
 Ge
-Bd
+vX
 Qq
 qq
 el
@@ -921,7 +1085,7 @@ Pe
 qq
 ht
 ht
-ht
+fB
 qq
 Pe
 Pe
@@ -933,9 +1097,9 @@ Pe
 Pe
 qq
 qo
-Bd
-km
-Qq
+cp
+Oh
+Wm
 qq
 qq
 qq
@@ -954,7 +1118,7 @@ Pe
 Pe
 qq
 SU
-ds
+jq
 ds
 qq
 Pe
@@ -968,7 +1132,7 @@ Pe
 qq
 NL
 hQ
-gX
+Sw
 Nk
 qq
 Pe
@@ -989,10 +1153,10 @@ Pe
 qq
 uG
 ds
-ds
+jq
 qq
-Bd
-Bd
+cp
+qU
 Pe
 Pe
 Pe
@@ -1023,7 +1187,7 @@ Pe
 qq
 ds
 ds
-ds
+jq
 qq
 bK
 qq
@@ -1034,9 +1198,9 @@ Pe
 qq
 Pe
 qq
-hk
+xp
 RR
-zo
+Iy
 wY
 qq
 Pe
@@ -1051,26 +1215,26 @@ uK
 uK
 Pe
 Pe
-ds
+jq
 HL
 bK
 ht
-ds
-ds
-ds
+jq
+jq
+jq
 uh
 hj
 yQ
 HL
-ds
+jq
 Fo
 Pe
 jD
 bK
 Bd
 OW
-km
-km
+LI
+Bm
 cb
 qq
 Pe
@@ -1084,28 +1248,28 @@ uK
 (22,1,1) = {"
 uK
 Pe
+WD
 bK
-bK
-Bd
-ds
+vX
+jq
 ht
-ds
-ds
+jq
+jq
 ds
 uh
-ds
-ds
+jq
+jq
 ds
 Hh
 Pe
 Pe
 Pe
-Bd
+iv
 zk
 om
 km
-km
-Qq
+Bm
+TW
 qq
 Pe
 Pe
@@ -1123,8 +1287,8 @@ bK
 bK
 Bd
 ht
-ds
-ds
+jq
+jq
 ds
 uh
 ds
@@ -1135,14 +1299,14 @@ Pe
 Pe
 Pe
 Ge
-Bd
+qU
 yu
+FI
 hQ
-hQ
-Nk
+Hl
 qq
-Pe
-Pe
+bK
+Au
 Pe
 Pe
 Pe
@@ -1171,11 +1335,11 @@ Pe
 Pe
 qq
 qq
-Bd
+Fq
 Bd
 qq
 qq
-Pe
+RW
 Pe
 Pe
 Pe
@@ -1192,7 +1356,7 @@ Pe
 Pe
 qq
 tM
-HL
+Vc
 KJ
 qq
 Pe

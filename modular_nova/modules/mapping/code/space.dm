@@ -41,6 +41,7 @@
 	suffix = "collapsing_rift_arcade.dmm"
 	name = "Space-Ruin Collapsing Rift Arcade"
 	description = "A former lunchtime haunt, now something far stranger."
+	always_place = TRUE // SHOG TEMP
 
 /datum/map_template/ruin/space/nova/toystore
 	id = "toystore"
